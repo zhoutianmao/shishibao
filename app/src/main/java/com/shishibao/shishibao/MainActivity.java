@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.vae, R.drawable.vae, R.drawable.vae, R.drawable.vae,
             R.drawable.vae, R.drawable.vae, R.drawable.vae, R.drawable.vae,
             R.drawable.vae };
+    
     private String[] names = { "生命01号", "生命02号", "生命03号", "生命04号", "生命05号",
             "生命06号", "生命07号", "生命08号", "生命09号", "生命10号", "生命11号", "生命12号" };
 
